@@ -8,8 +8,8 @@
       </div>
   </div>
 </div>
-<script src="<?php echo base_url() ?>vendor/jquery/jquery.min.js"></script>
-<script src="<?php echo base_url() ?>vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="<?php echo base_url() ?>assets/vendor/jquery/jquery.min.js"></script>
+<script src="<?php echo base_url() ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="<?php echo base_url() ?>assets/js/custom.js"></script>
 </body>
 </html>
